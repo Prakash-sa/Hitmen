@@ -1,0 +1,32 @@
+body {
+    background-image: url(img/back.jpg),url(img/15.jpg);
+    background-repeat: no-repeat,repeat;
+   background-size: 100% 130px,auto;
+   
+    }
+
+#du,#tu {
+    text-align: right!important;
+    font-style: italic;
+    font-size: 20px;
+  }
+
+    .main{text-align: center}
+    .like{padding-left: 40px;border: 2px solid blue;}
+
+    .glyphicon.glyphicon-phone-alt,.fa,.glyphicon.glyphicon-envelope {font-size: 50px;}
+    #low{background-color: black;width: 100%;color: white;padding-top:2px;border: 1px solid #E3E3E3;clear: both;margin-top: 20px;}
+    tr {font-size: 20px;font-style: italic;word-spacing: 100px;}
+    .text{font-color:#fce4ec pink lighten-5}
+    
+
+/*--/body--*/
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(img/15.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
